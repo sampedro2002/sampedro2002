@@ -1,0 +1,454 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="800" height="120">
+  <defs>
+    <style>
+      @keyframes fall {
+        from { transform: translateY(-192px); }
+        to   { transform: translateY(120px); }
+      }
+      .a1  { animation: fall 2.1s -0.3s  linear infinite; }
+      .a2  { animation: fall 1.8s -1.4s  linear infinite; }
+      .a3  { animation: fall 3.2s -2.8s  linear infinite; }
+      .a4  { animation: fall 2.5s -0.6s  linear infinite; }
+      .a5  { animation: fall 1.9s -3.1s  linear infinite; }
+      .a6  { animation: fall 3.8s -1.7s  linear infinite; }
+      .a7  { animation: fall 2.3s -0.9s  linear infinite; }
+      .a8  { animation: fall 2.9s -2.4s  linear infinite; }
+      .a9  { animation: fall 1.7s -3.7s  linear infinite; }
+      .a10 { animation: fall 3.5s -0.5s  linear infinite; }
+      .a11 { animation: fall 2.0s -2.0s  linear infinite; }
+      .a12 { animation: fall 2.7s -1.3s  linear infinite; }
+      .a13 { animation: fall 3.1s -3.4s  linear infinite; }
+      .a14 { animation: fall 1.8s -0.8s  linear infinite; }
+      .a15 { animation: fall 2.4s -2.6s  linear infinite; }
+      .a16 { animation: fall 3.6s -1.0s  linear infinite; }
+      .a17 { animation: fall 2.2s -3.9s  linear infinite; }
+      .a18 { animation: fall 2.8s -1.8s  linear infinite; }
+      .a19 { animation: fall 1.9s -0.4s  linear infinite; }
+      .a20 { animation: fall 3.3s -2.9s  linear infinite; }
+      .a21 { animation: fall 2.6s -1.5s  linear infinite; }
+      .a22 { animation: fall 1.8s -3.2s  linear infinite; }
+      .a23 { animation: fall 3.0s -0.6s  linear infinite; }
+      .a24 { animation: fall 2.4s -2.1s  linear infinite; }
+      .a25 { animation: fall 1.7s -3.8s  linear infinite; }
+    </style>
+    <clipPath id="clip"><rect width="800" height="120"/></clipPath>
+    <linearGradient id="fadeTop" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%"   stop-color="#000000" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeBot" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%"   stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="120" fill="#000000"/>
+
+  <g clip-path="url(#clip)" font-family="'Courier New', Courier, monospace" font-size="14">
+
+    <!-- Col 1 x=16 -->
+    <g class="a1" transform="translate(16,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾝ</text>
+      <text y="16"  fill="#004400" opacity="0.12">7</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｺ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾋ</text>
+      <text y="64"  fill="#008020" opacity="0.33">3</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｻ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ｴ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">9</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾏ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｷ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">5</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｦ</text>
+    </g>
+
+    <!-- Col 2 x=48 -->
+    <g class="a2" transform="translate(48,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾗ</text>
+      <text y="16"  fill="#004400" opacity="0.12">1</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｶ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾂ</text>
+      <text y="64"  fill="#008020" opacity="0.33">8</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｿ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾊ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">4</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾘ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｸ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">6</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾌ</text>
+    </g>
+
+    <!-- Col 3 x=80 -->
+    <g class="a3" transform="translate(80,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｳ</text>
+      <text y="16"  fill="#004400" opacity="0.12">ﾃ</text>
+      <text y="32"  fill="#005511" opacity="0.18">2</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾅ</text>
+      <text y="64"  fill="#008020" opacity="0.33">ｹ</text>
+      <text y="80"  fill="#009922" opacity="0.42">7</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾐ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">ｵ</text>
+      <text y="128" fill="#00DD38" opacity="0.73">3</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｼ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">9</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾙ</text>
+    </g>
+
+    <!-- Col 4 x=112 -->
+    <g class="a4" transform="translate(112,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾉ</text>
+      <text y="16"  fill="#004400" opacity="0.12">5</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｲ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾍ</text>
+      <text y="64"  fill="#008020" opacity="0.33">ｱ</text>
+      <text y="80"  fill="#009922" opacity="0.42">1</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾎ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">8</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾑ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｭ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">4</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾜ</text>
+    </g>
+
+    <!-- Col 5 x=144 -->
+    <g class="a5" transform="translate(144,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｾ</text>
+      <text y="16"  fill="#004400" opacity="0.12">6</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾒ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ｯ</text>
+      <text y="64"  fill="#008020" opacity="0.33">3</text>
+      <text y="80"  fill="#009922" opacity="0.42">ﾆ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ｫ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">9</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾓ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｨ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">7</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾔ</text>
+    </g>
+
+    <!-- Col 6 x=176 -->
+    <g class="a6" transform="translate(176,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾕ</text>
+      <text y="16"  fill="#004400" opacity="0.12">2</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｵ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾁ</text>
+      <text y="64"  fill="#008020" opacity="0.33">5</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｾ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾊ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">0</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｷ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾗ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">8</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｺ</text>
+    </g>
+
+    <!-- Col 7 x=208 -->
+    <g class="a7" transform="translate(208,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾖ</text>
+      <text y="16"  fill="#004400" opacity="0.12">4</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｻ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾋ</text>
+      <text y="64"  fill="#008020" opacity="0.33">1</text>
+      <text y="80"  fill="#009922" opacity="0.42">ﾛ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ｴ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">6</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾏ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｶ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">3</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾝ</text>
+    </g>
+
+    <!-- Col 8 x=240 -->
+    <g class="a8" transform="translate(240,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾀ</text>
+      <text y="16"  fill="#004400" opacity="0.12">9</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｸ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾍ</text>
+      <text y="64"  fill="#008020" opacity="0.33">7</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｿ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾄ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">2</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｹ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾎ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">5</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｼ</text>
+    </g>
+
+    <!-- Col 9 x=272 -->
+    <g class="a9" transform="translate(272,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾐ</text>
+      <text y="16"  fill="#004400" opacity="0.12">1</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｲ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾒ</text>
+      <text y="64"  fill="#008020" opacity="0.33">8</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｳ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾑ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">4</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｱ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾌ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">6</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾃ</text>
+    </g>
+
+    <!-- Col 10 x=304 -->
+    <g class="a10" transform="translate(304,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾅ</text>
+      <text y="16"  fill="#004400" opacity="0.12">3</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｦ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾙ</text>
+      <text y="64"  fill="#008020" opacity="0.33">9</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｵ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾉ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">0</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｼ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾘ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">7</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｭ</text>
+    </g>
+
+    <!-- Col 11 x=336 -->
+    <g class="a11" transform="translate(336,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｪ</text>
+      <text y="16"  fill="#004400" opacity="0.12">5</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾜ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ｯ</text>
+      <text y="64"  fill="#008020" opacity="0.33">2</text>
+      <text y="80"  fill="#009922" opacity="0.42">ﾂ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ｫ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">8</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾔ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｨ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">1</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾕ</text>
+    </g>
+
+    <!-- Col 12 x=368 -->
+    <g class="a12" transform="translate(368,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｶ</text>
+      <text y="16"  fill="#004400" opacity="0.12">6</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾖ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾛ</text>
+      <text y="64"  fill="#008020" opacity="0.33">4</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｲ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾓ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">9</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｳ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｿ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">3</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾁ</text>
+    </g>
+
+    <!-- Col 13 x=400 -->
+    <g class="a13" transform="translate(400,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｴ</text>
+      <text y="16"  fill="#004400" opacity="0.12">7</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾊ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ｻ</text>
+      <text y="64"  fill="#008020" opacity="0.33">5</text>
+      <text y="80"  fill="#009922" opacity="0.42">ﾋ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ｵ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">1</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾀ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｾ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">8</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾄ</text>
+    </g>
+
+    <!-- Col 14 x=432 -->
+    <g class="a14" transform="translate(432,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾎ</text>
+      <text y="16"  fill="#004400" opacity="0.12">2</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｸ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾍ</text>
+      <text y="64"  fill="#008020" opacity="0.33">6</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｹ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾐ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">3</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｷ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾏ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">9</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾅ</text>
+    </g>
+
+    <!-- Col 15 x=464 -->
+    <g class="a15" transform="translate(464,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｱ</text>
+      <text y="16"  fill="#004400" opacity="0.12">4</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾝ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ｶ</text>
+      <text y="64"  fill="#008020" opacity="0.33">7</text>
+      <text y="80"  fill="#009922" opacity="0.42">ﾘ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ｻ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">0</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾑ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｼ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">5</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｦ</text>
+    </g>
+
+    <!-- Col 16 x=496 -->
+    <g class="a16" transform="translate(496,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾂ</text>
+      <text y="16"  fill="#004400" opacity="0.12">8</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｵ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾌ</text>
+      <text y="64"  fill="#008020" opacity="0.33">2</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｭ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾒ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">6</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｨ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾃ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">1</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾗ</text>
+    </g>
+
+    <!-- Col 17 x=528 -->
+    <g class="a17" transform="translate(528,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｾ</text>
+      <text y="16"  fill="#004400" opacity="0.12">3</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾙ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ｯ</text>
+      <text y="64"  fill="#008020" opacity="0.33">9</text>
+      <text y="80"  fill="#009922" opacity="0.42">ﾖ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ｫ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">4</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ﾛ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ｲ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">7</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾕ</text>
+    </g>
+
+    <!-- Col 18 x=560 -->
+    <g class="a18" transform="translate(560,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾜ</text>
+      <text y="16"  fill="#004400" opacity="0.12">5</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｻ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾊ</text>
+      <text y="64"  fill="#008020" opacity="0.33">1</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｳ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾁ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">8</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｵ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾉ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">2</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｺ</text>
+    </g>
+
+    <!-- Col 19 x=592 -->
+    <g class="a19" transform="translate(592,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾔ</text>
+      <text y="16"  fill="#004400" opacity="0.12">6</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｶ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾋ</text>
+      <text y="64"  fill="#008020" opacity="0.33">3</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｸ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾏ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">9</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｴ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾍ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">4</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｼ</text>
+    </g>
+
+    <!-- Col 20 x=624 -->
+    <g class="a20" transform="translate(624,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾄ</text>
+      <text y="16"  fill="#004400" opacity="0.12">7</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｹ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾎ</text>
+      <text y="64"  fill="#008020" opacity="0.33">5</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｷ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾐ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">0</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｻ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾅ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">8</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｱ</text>
+    </g>
+
+    <!-- Col 21 x=656 -->
+    <g class="a21" transform="translate(656,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾑ</text>
+      <text y="16"  fill="#004400" opacity="0.12">2</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｦ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾘ</text>
+      <text y="64"  fill="#008020" opacity="0.33">6</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｵ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾃ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">1</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｭ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾒ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">9</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾝ</text>
+    </g>
+
+    <!-- Col 22 x=688 -->
+    <g class="a22" transform="translate(688,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｪ</text>
+      <text y="16"  fill="#004400" opacity="0.12">4</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾂ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ｿ</text>
+      <text y="64"  fill="#008020" opacity="0.33">8</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｲ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾌ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">3</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｫ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾗ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">5</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｾ</text>
+    </g>
+
+    <!-- Col 23 x=720 -->
+    <g class="a23" transform="translate(720,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ｯ</text>
+      <text y="16"  fill="#004400" opacity="0.12">7</text>
+      <text y="32"  fill="#005511" opacity="0.18">ﾖ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾛ</text>
+      <text y="64"  fill="#008020" opacity="0.33">2</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｳ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾜ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">6</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｨ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾕ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">1</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾓ</text>
+    </g>
+
+    <!-- Col 24 x=752 -->
+    <g class="a24" transform="translate(752,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾀ</text>
+      <text y="16"  fill="#004400" opacity="0.12">9</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｹ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾊ</text>
+      <text y="64"  fill="#008020" opacity="0.33">4</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｺ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾁ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">7</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｻ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾄ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">3</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ｸ</text>
+    </g>
+
+    <!-- Col 25 x=784 -->
+    <g class="a25" transform="translate(784,0)">
+      <text y="0"   fill="#003300" opacity="0.08">ﾋ</text>
+      <text y="16"  fill="#004400" opacity="0.12">5</text>
+      <text y="32"  fill="#005511" opacity="0.18">ｵ</text>
+      <text y="48"  fill="#006B1B" opacity="0.25">ﾎ</text>
+      <text y="64"  fill="#008020" opacity="0.33">0</text>
+      <text y="80"  fill="#009922" opacity="0.42">ｶ</text>
+      <text y="96"  fill="#00BB2D" opacity="0.52">ﾍ</text>
+      <text y="112" fill="#00CC33" opacity="0.62">8</text>
+      <text y="128" fill="#00DD38" opacity="0.73">ｷ</text>
+      <text y="144" fill="#00EE3E" opacity="0.85">ﾉ</text>
+      <text y="160" fill="#00FF41" opacity="0.95">2</text>
+      <text y="176" fill="#CCFFCC" opacity="1.00">ﾐ</text>
+    </g>
+
+  </g>
+
+  <!-- Fade overlays top/bottom -->
+  <rect width="800" height="28" fill="url(#fadeTop)"/>
+  <rect y="92" width="800" height="28" fill="url(#fadeBot)"/>
+</svg>
