@@ -16,7 +16,6 @@
 ## About me
 
 - 🎓 **Information Systems Engineer** (Ingeniería en Sistemas de Información).
-- 🐍 Building web automation and scraping projects with **Python** and **Playwright**.
 - 🌱 Interested in software design, automation, and continuous learning.
 - 🙏 Guided by the idea that true greatness is found in serving others.
 
