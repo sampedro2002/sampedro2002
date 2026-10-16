@@ -20,14 +20,6 @@
 - 🌱 Interested in software design, automation, and continuous learning.
 - 🙏 Guided by the idea that true greatness is found in serving others.
 
-## Tools I work with
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
 ---
 
 <div align="center">
